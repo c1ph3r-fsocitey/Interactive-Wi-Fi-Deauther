@@ -1,3 +1,5 @@
+Head Over to [Wiki](https://github.com/c1ph3r-fsocitey/Interactive-Wi-Fi-Deauther/wiki) for Instructions on Build
+
 **Interactive-Wi-Fi-Deauther** is an Open Source Project, that can be used to:
 * Scan Networks, 
 * Deauthenticate Users from a Network, 
